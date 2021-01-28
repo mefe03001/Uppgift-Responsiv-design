@@ -1,0 +1,12 @@
+html {
+    background-color: lightblue;
+}
+body {
+    background-color: yellow;
+    border-radius: 100%;
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vh;
+    max-height: 100vw;
+    margin: auto;
+}
